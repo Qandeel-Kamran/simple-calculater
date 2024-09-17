@@ -1,0 +1,22 @@
+{
+  "name": "calculator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "description": "making calculator wit the help of typescript",
+  "dependencies": {
+    "inquirer": "^10.2.2"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  },
+  "repository": {
+    "type": "git",
+    "url": "A simple calculater with typescript, next.js and Inquirer"
+  }
+}
